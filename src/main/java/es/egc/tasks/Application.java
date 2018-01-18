@@ -15,8 +15,6 @@ public class Application {
 
 	logger.info("Inicializando aplicación…”);
 
-	logger.info("Initializing task-manager");
-
         SpringApplication.run(Application.class, args);
     }
 
